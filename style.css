@@ -1,5 +1,51 @@
+body {
+background-color: #fff;
+}
+
 .intro {
+  margin: auto;
+  width: 50%;
+}
 
-background-color: fec8cf;
+.all-styles{
+text-align: center;
+vertical-align: top;
+}
+.Ombre{
+display: inline-block;
+width: 20%;
+}
+.Balayage{
+  display: inline-block;
+  width: 20%;
+}
+.Full-coloration{
+  display: inline-block;
+  width: 20%;
+}
+.highlights{
+  display: inline-block;
+  width: 20%;
+}
+.balayageimage{
+  height: auto;
+  width: auto;
+  overflow-x: hidden;
 
+}
+.ombreimage{
+  height: auto;
+  width: auto;
+  overflow-x: hidden;
+}
+.fullcolorationimage{
+  height: auto;
+  width: auto;
+  overflow-x: hidden;
+}
+
+.highlightimage{
+  height: auto;
+  width: auto;
+  overflow-x: hidden;
 }
