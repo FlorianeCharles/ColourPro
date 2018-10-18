@@ -2,11 +2,11 @@
 body {
 font-family: 'Niramit';
 background-image: url(http://static.wixstatic.com/media/ac93d2_8fe21c0763764fae942c00cea96b7878.jpg);
-
+background-attachment: fixed;
 }
 h1{
 text-align: center;
-font-family: 'Lobster';
+font-family: 'Great Vibes';
 font-size: 80px;
 }
 
@@ -14,7 +14,7 @@ font-size: 80px;
 padding-top: 30px;
 padding-bottom: 30px;
 text-align: center;
-font-family: 'Lobster';
+font-family: 'Great Vibes';
 font-size: 50px;
 
 
