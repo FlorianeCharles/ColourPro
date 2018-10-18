@@ -17,8 +17,6 @@ text-align: center;
 font-family: 'Great Vibes';
 font-size: 50px;
 
-
-
 }
 .intro {
   margin: auto;
@@ -29,6 +27,7 @@ font-size: 50px;
 text-align: center;
 vertical-align: top;
 }
+
 .Ombre{
 display: inline-block;
 width: 20%;
@@ -38,21 +37,19 @@ width: 20%;
   display: inline-block;
   width: 20%;
   padding-right: 30px;
-
 }
 
 .balayage-price{
 padding-top: 10px;
 color: #a57bf6;
-
-
 }
+
 .Full-coloration{
   display: inline-block;
   width: 20%;
   padding-right: 30px;
-
 }
+
 .fullcoloration-price{
   padding-top: 10px;
 color: #a57bf6;
@@ -62,8 +59,8 @@ color: #a57bf6;
   display: inline-block;
   width: 20%;
   padding-right: 30px;
-
 }
+
 .balayageimage{
   padding-top: 15px;
   height: auto;
@@ -77,11 +74,12 @@ color: #a57bf6;
   width: auto;
   overflow-x: hidden;
 }
+
 .ombre-price{
 color: #a57bf6;
   padding-top: 10px;
-
 }
+
 .fullcolorationimage{
   padding-top: 15px;
   height: auto;
@@ -97,6 +95,6 @@ color: #a57bf6;
 }
 
 .highlight-price{
-  padding-top: 10px;
+padding-top: 10px;
 color: #a57bf6;
 }
