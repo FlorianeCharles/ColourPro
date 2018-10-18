@@ -1,10 +1,24 @@
+
 body {
-background-color: #000;
-color: #fff;
-font-family: arial;
+font-family: 'Niramit';
+background-image: url(http://static.wixstatic.com/media/ac93d2_8fe21c0763764fae942c00cea96b7878.jpg);
+
 }
 h1{
-  text-align: center;
+text-align: center;
+font-family: 'Lobster';
+font-size: 80px;
+}
+
+.see-below{
+padding-top: 30px;
+padding-bottom: 30px;
+text-align: center;
+font-family: 'Lobster';
+font-size: 50px;
+
+
+
 }
 .intro {
   margin: auto;
@@ -18,38 +32,71 @@ vertical-align: top;
 .Ombre{
 display: inline-block;
 width: 20%;
+
 }
 .Balayage{
   display: inline-block;
   width: 20%;
+  padding-right: 30px;
+
+}
+
+.balayage-price{
+padding-top: 10px;
+color: #a57bf6;
+
+
 }
 .Full-coloration{
   display: inline-block;
   width: 20%;
+  padding-right: 30px;
+
 }
+.fullcoloration-price{
+  padding-top: 10px;
+color: #a57bf6;
+}
+
 .highlights{
   display: inline-block;
   width: 20%;
+  padding-right: 30px;
+
 }
 .balayageimage{
+  padding-top: 15px;
   height: auto;
   width: auto;
   overflow-x: hidden;
 
 }
 .ombreimage{
+  padding-top: 15px;
   height: auto;
   width: auto;
   overflow-x: hidden;
 }
+.ombre-price{
+color: #a57bf6;
+  padding-top: 10px;
+
+}
 .fullcolorationimage{
+  padding-top: 15px;
   height: auto;
   width: auto;
   overflow-x: hidden;
 }
 
 .highlightimage{
+  padding-top: 15px;
   height: auto;
   width: auto;
   overflow-x: hidden;
+}
+
+.highlight-price{
+  padding-top: 10px;
+color: #a57bf6;
 }
